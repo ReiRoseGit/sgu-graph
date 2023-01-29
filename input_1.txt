@@ -1,0 +1,13 @@
+oriented
+suspended
+Saratov Moscow 800
+Saratov Volgograd 350
+Moscow Saratov 800
+Moscow Samara 450
+Volgograd Moscow 900
+Volgograd Saratov 350
+Samara Saratov 300
+Samara Samara 0
+Volgograd Samara 800
+Piter Volgograd 1000
+Saratov Piter 1000

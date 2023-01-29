@@ -1,0 +1,10 @@
+oriented
+suspended
+s v2 3
+s v1 5
+v1 v2 4
+v1 v3 2
+v2 v4 5
+v4 v3 6
+v4 t 5
+v3 t 7

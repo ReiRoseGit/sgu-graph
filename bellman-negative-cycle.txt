@@ -1,0 +1,11 @@
+oriented
+suspended
+A B -1
+A C 4
+B E 2
+B C 3
+B D 2
+D C 5
+D B 1
+E D -3
+C A -5

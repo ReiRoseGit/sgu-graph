@@ -1,0 +1,12 @@
+unoriented
+unsuspended
+a b -1
+a c -1
+b d -1
+b e -1
+c f -1
+c g -1
+k m -1
+k h -1
+q k -1
+h m -1

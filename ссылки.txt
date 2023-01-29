@@ -1,0 +1,11 @@
+C:/Users/reiro/Desktop/new_graph/input_2.txt
+C:/Users/reiro/Desktop/new_graph/input_3.txt
+C:/Users/reiro/Desktop/new_graph/input_bfs.txt
+C:/Users/reiro/Desktop/new_graph/prim_input.txt
+C:/Users/reiro/Desktop/new_graph/input_path.txt
+C:/Users/reiro/Desktop/new_graph/deikstra.txt
+C:/Users/reiro/Desktop/new_graph/floyd.txt
+C:/Users/reiro/Desktop/new_graph/bellman.txt
+C:/Users/reiro/Desktop/new_graph/bellman-negative-cycle.txt
+C:/Users/reiro/Desktop/new_graph/max_flow_input.txt
+C:/Users/reiro/Desktop/new_graph/max_flow_input_2.txt
